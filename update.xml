@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>3.0.0.0</version>
+    <url>https://tuservidor.com/barberia/BarberiaApp.exe</url>
+    <changelog>https://tuservidor.com/barberia/changelog.txt</changelog>
+    <mandatory>false</mandatory>
+</item>
