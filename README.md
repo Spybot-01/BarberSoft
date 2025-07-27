@@ -1,2 +1,2 @@
-# Sistema Barbería
+# BarberSoft
 Repositorio para alojar archivos de actualización.
