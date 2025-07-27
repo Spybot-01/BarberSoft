@@ -3,5 +3,5 @@
     <version>3.2.0.0</version>
     <url>https://spybot-01.github.io/BarberSoft/BarberPOS.exe</url>
     <changelog>https://spybot-01.github.io/BarberSoft/changelog.txt</changelog>
-    <mandatory>True</mandatory>
+    <mandatory>False</mandatory>
 </item>
