@@ -1,3 +1,20 @@
-Versión 3.2.0.0
-- Versión inicial del sistema
-- Punto de venta para Barberías y Estéticas.
+# Registro de cambios
+Todas las modificaciones relevantes de BarberSoft se documentarán en este archivo.  
+Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
+Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
+
+## [3.0.0.0] - 2025-08-28
+### Añadido
+- Nueva interfaz optimizada para barberías y estéticas.
+- Mejoras en estabilidad y rendimiento.
+- Inclusión de nuevas funciones avanzadas de punto de venta.
+
+## [2.0.0.0] - 2024-06-10
+### Cambiado
+- Rediseño de la base de datos.
+- Actualizaciones en la gestión de inventario.
+
+## [1.0.0.0] - 2019-08-15
+### Añadido
+- Versión inicial funcional de BarberSoft.
+- Punto de venta básico para barberías y estéticas.
