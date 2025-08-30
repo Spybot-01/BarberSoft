@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.0.0</version>
+    <version>3.1.0.0</version>
     <url>https://spybot-01.github.io/BarberSoft/BarberPOS.exe</url>
     <changelog>https://spybot-01.github.io/BarberSoft/changelog.txt</changelog>
     <mandatory>false</mandatory>

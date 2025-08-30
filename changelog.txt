@@ -3,6 +3,11 @@ Todas las modificaciones relevantes de BarberSoft se documentarán en este archi
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
+## [3.1.0.0] - 2025-08-30
+### Añadido
+- Se resolvió conflicto entre versiones que afectaba a los settings del usuario.
+- Mejoras en estabilidad.
+
 ## [3.0.0.0] - 2025-08-28
 ### Añadido
 - Nueva interfaz optimizada para barberías y estéticas.
