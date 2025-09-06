@@ -3,28 +3,45 @@ Todas las modificaciones relevantes de BarberSoft se documentarán en este archi
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
+## [3.2.2.0] - 2025-09-04
+### Añadido
+- Se actualizó el icono de BarberSoft.
+- Mejoras mínimas en la estética del módulo impresoras.
+- SHA-256: d7c748ac0e2c48dcae96fcf9cb503b2079a2f6d35980d3e410e950abe6c78f9e
+
+## [3.2.1.0] - 2025-09-04
+### Añadido
+- Se refactorizó el sistema de envió de correos.
+- Mejoras mínimas en la estética de la pantalla principal.
+- SHA-256: f3e06d6e41e309d8ae16c2d6ca99ca63cc230a9e57e2f5f7d9643397a5acbbb2
+
 ## [3.2.0.0] - 2025-09-01
 ### Añadido
 - Se resolvió un bug que no mostraba los retiros correctamente.
 - Mejoras en estabilidad.
+- SHA-256: 6c07a5d821064284254804915ada1e685377d5070638fbb9943ab05296610aab
 
 ## [3.1.0.0] - 2025-08-30
 ### Añadido
 - Se resolvió conflicto entre versiones que afectaba a los settings del usuario.
 - Mejoras en estabilidad.
+- SHA-256: 578b73bbbb91552de238351f8ec8bc7848b46de13e59cbe3ae8165a15225c35a
 
 ## [3.0.0.0] - 2025-08-28
 ### Añadido
 - Nueva interfaz optimizada para barberías y estéticas.
 - Mejoras en estabilidad y rendimiento.
 - Inclusión de nuevas funciones avanzadas de punto de venta.
+- SHA-256: 578b73bbbb91552de238351f8ec8bc1948b46de23e59cbe6ae8165a15224c854
 
 ## [2.0.0.0] - 2024-06-10
 ### Cambiado
 - Rediseño de la base de datos.
 - Actualizaciones en la gestión de inventario.
+- SHA-256: 9f91f0c27f014a400418a521dac11d291c0e7d84e0b1f6f7351b55585c9ebae6
 
 ## [1.0.0.0] - 2019-08-15
 ### Añadido
 - Versión inicial funcional de BarberSoft.
 - Punto de venta básico para barberías y estéticas.
+- SHA-256: ...
