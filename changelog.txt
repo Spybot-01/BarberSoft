@@ -3,7 +3,14 @@ Todas las modificaciones relevantes de BarberSoft se documentarán en este archi
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
-## [3.2.2.0] - 2025-09-04
+## [3.2.4.0] - 2025-09-08
+### Añadido
+- Se actualizó un Label encargado de mostrar de la versión de BarberSoft en la pantalla de salida.
+- Se actualizó el código de registrar depósitos.
+- Se corrigieron nombre de directorios internos.
+- SHA-256: 7d45db67bc6b75c58eec4378a7f58c30604aeea041beb473ae58b074963e3c55
+
+## [3.2.2.0] - 2025-09-07
 ### Añadido
 - Se actualizó el icono de BarberSoft.
 - Mejoras mínimas en la estética del módulo impresoras.
