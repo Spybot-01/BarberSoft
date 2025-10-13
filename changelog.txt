@@ -3,11 +3,12 @@ Todas las modificaciones relevantes de BarberSoft se documentarán en este archi
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
-## [3.2.8.0] - 2025-10-12
+## [3.2.9.0] - 2025-10-12
 ### Añadido
 - Se actualizó la parte de dar de alta a clientes express.
 - Se optimizó la parte del ciclo de visitas los clientes.
-- SHA-256 del .exe: 546adfc5dee142936756835cafa7159017743190eaa62f0a3349114b1311d621
+-Se arreglo un bug en las comisiones de venta de productos.
+- SHA-256 del .exe: d967543866e78234fc23d4095f17315264ec60d9e60f1920b6cebcb0338ca6cf
 
 ## [3.2.7.0] - 2025-10-10
 ### Añadido
