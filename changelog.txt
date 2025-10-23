@@ -3,12 +3,12 @@ Todas las modificaciones relevantes de BarberSoft se documentarán en este archi
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
-## [3.3.1.0] - 2025-10-17
+## [3.3.2.0] - 2025-10-22
 ### Añadido
 - Se actualizó la parte de módulos, agregando dos mas (Historial de Clientes y Control de asistencias).
 - Se optimizó la parte de comentarios de los clientes.
 - Se arreglo un bug en la pantalla principal.
-- SHA-256 del .exe: d4260cec3754a89420e5a8ca00b32f2c71e0b1461a93bf9d7f071f80058b8316
+- SHA-256 del .exe: f15bec089676f2a89111c3b6f1b8fb2939eac936dd9154129185c1057b84fd2d
 
 ## [3.2.9.0] - 2025-10-12
 ### Añadido
