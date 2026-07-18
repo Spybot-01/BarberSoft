@@ -3,6 +3,15 @@ Todas las modificaciones relevantes de BarberSoft se documentan en este archivo.
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
+## [4.0.0.7] - 2026-07-18
+### Añadido
+- Se reemplazo el formulario del gestor de clientes por otro mas eficiente.
+- Se reemplazo el formulario del gestor de Productos por otro mas eficiente.
+- Se reemplazo el formulario del gestor de servicios por otro mas eficiente.
+- Se actualizó la apariencia del Menú de Configuración.
+- Se corrigieron varias vulnerabilidades en todo el sistema.
+- Se blindaron todas las entradas de datos para evitar el ingresa de información errónea.
+
 ## [4.0.0.0] - 2026-04-20
 ### Añadido
 - Se rediseño la apariencia y la lógica del módulo de Citas.
