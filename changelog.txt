@@ -3,6 +3,10 @@ Todas las modificaciones relevantes de BarberSoft se documentan en este archivo.
 Este proyecto sigue el formato de [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).  
 Las versiones se numeran siguiendo [Semantic Versioning](https://semver.org/lang/es/).
 
+## [4.5.0.9] - 2026-08-14
+### Añadido
+- Se arregló otro bug en el código de las actualizaciones.
+
 ## [4.0.0.9] - 2026-08-14
 ### Añadido
 - Se arregló un bug en el código de las actualizaciones.
